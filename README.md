@@ -33,7 +33,10 @@ Loss Curve during Training PSP-Net
 
 Overall, the PSP-Net clearly outperformed the U-Net architecture. PSP-Net achieved a Mean IoU of 0.6132 and a Dice Score of 0.7463, while U-Net reached a Mean IoU of 0.4629 and a Dice Score of 0.5494.
 
-Visual Result:
+Looking at the visual results, you can clearly see how the architecture of each model shapes its predictions:
+
+* **U-Net:** Because of its skip connections, U-Net is really good at holding onto fine spatial details. If you look closely, you'll notice it draws much sharper and more precise boundaries around individual objects like houses and streets.
+* **PSP-Net:** PSP-Net, on the other hand, is much better at understanding the "big picture." By using a ResNet101 backbone and pyramid pooling, it grasps the overall context of a scene rather than just focusing on local pixels. It successfully detected all 10 classes and proved to be much more reliable at identifying large, continuous areas like flooded roads and bodies of water. It handles the dataset's class imbalance much better than U-Net.
 
 Legend:
 
@@ -56,12 +59,6 @@ PSP-Net Picture 7583:
 PSP-Net Picture 7813:
 
 <img width="729" height="267" alt="image" src="https://github.com/user-attachments/assets/70357cbe-dcc7-48ef-87f7-348ef31ce7b4" />
-
-U-Net: Because of its skip connections, U-Net is really good at holding onto fine spatial details. If you look closely, you'll notice it draws much sharper and more precise boundaries around individual objects like houses and streets.
-
-PSP-Net: PSP-Net, on the other hand, is much better at understanding the "big picture." By using a ResNet101 backbone and pyramid pooling, it grasps the overall context of a scene rather than just focusing on local pixels. It successfully detected all 10 classes and proved to be much more reliable at identifying large, continuous areas like flooded roads and bodies of water. It handles the dataset's class imbalance much better than U-Net.
-
-
 
 
 
