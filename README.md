@@ -42,20 +42,20 @@ Legend:
 
 U-Net Picture 9109:
 
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/6ec0e15b-f6fd-42e6-8e98-d62e95086c39" />
+<img width="750" height="300" alt="image" src="https://github.com/user-attachments/assets/6ec0e15b-f6fd-42e6-8e98-d62e95086c39" />
 
 U-Net Picture 6831:
 
-<img width="454" height="165" alt="image" src="https://github.com/user-attachments/assets/e0968da8-b0f1-46be-acfd-297f088e9172" />
+<img width="681" height="248" alt="image" src="https://github.com/user-attachments/assets/e0968da8-b0f1-46be-acfd-297f088e9172" />
 
 
 PSP-Net Picture 7583:
 
-<img width="486" height="178" alt="Bildschirmfoto 2026-07-24 um 09 02 16" src="https://github.com/user-attachments/assets/6992a15e-6841-4d21-b63e-231764c13001" />
+<img width="729" height="267" alt="Bildschirmfoto 2026-07-24 um 09 02 16" src="https://github.com/user-attachments/assets/6992a15e-6841-4d21-b63e-231764c13001" />
 
 PSP-Net Picture 7813:
 
-<img width="486" height="178" alt="image" src="https://github.com/user-attachments/assets/70357cbe-dcc7-48ef-87f7-348ef31ce7b4" />
+<img width="729" height="267" alt="image" src="https://github.com/user-attachments/assets/70357cbe-dcc7-48ef-87f7-348ef31ce7b4" />
 
 
 
