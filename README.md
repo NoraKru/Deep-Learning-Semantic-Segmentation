@@ -23,6 +23,13 @@ We compared two classic semantic segmentation models in this project. Both model
 ## Methodology
 We fed 1,445 training images into both the U-Net (trained entirely from scratch) and the PSP-Net models. Both models were trained using the AdamW optimizer to decouple weight decay and prevent over-regularization, while being optimized against a custom Hybrid Focal-Dice Loss function to effectively handle class imbalances. During the data loading process, all images and masks were resized to 512x512 pixels. To increase the volume and diversity of our training data, we augmented the images using random horizontal and vertical flips. The pixel values were then normalized to a standard range to ensure faster and more efficient training. The final model performance was subsequently evaluated on a dedicated test set of 448 images, where we assessed the predictions based on Mean IoU (mIoU), Mean Dice Score, and Overall Pixel Accuracy.
 
+Loss Curve during Training U-Net
+<img width="690" height="423" alt="image" src="https://github.com/user-attachments/assets/de6136e9-2c79-4034-bee7-ac7fc0e31de9" />
+
+Loss Curve during Training PSP-Net
+<img width="159" height="95" alt="image" src="https://github.com/user-attachments/assets/e2470f24-8365-4ffa-8f78-eb85b97eef58" />
+
+
 
 
 ## References
