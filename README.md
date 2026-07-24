@@ -42,11 +42,12 @@ Legend:
 
 U-Net Picture 9109:
 
-<img width="486" height="178" alt="image" src="https://github.com/user-attachments/assets/6ec0e15b-f6fd-42e6-8e98-d62e95086c39" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/6ec0e15b-f6fd-42e6-8e98-d62e95086c39" />
 
 U-Net Picture 6831:
 
-<img width="486" height="178" alt="image" src="https://github.com/user-attachments/assets/6595c674-ec7b-49e8-9dc6-f7b9686439a1" />
+<img width="454" height="165" alt="image" src="https://github.com/user-attachments/assets/e0968da8-b0f1-46be-acfd-297f088e9172" />
+
 
 PSP-Net Picture 7583:
 
