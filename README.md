@@ -35,19 +35,25 @@ Overall, the PSP-Net clearly outperformed the U-Net architecture. PSP-Net achiev
 
 Visual Result:
 
-Legend
-<img width="137" height="142" alt="image" src="https://github.com/user-attachments/assets/74c538d2-04e9-4089-9247-11dfd89a2c8b" />
+Legend:
 
-U-Net Picture 9109
-<img width="454" height="171" alt="image" src="https://github.com/user-attachments/assets/6ec0e15b-f6fd-42e6-8e98-d62e95086c39" />
+<img width="186" height="193" alt="image" src="https://github.com/user-attachments/assets/348cc9bf-ecc2-4e1a-b822-e2ab72f4e635" />
 
-U-Net Picture 6831
-<img width="480" height="181" alt="image" src="https://github.com/user-attachments/assets/6595c674-ec7b-49e8-9dc6-f7b9686439a1" />
 
-PSP-Net Picture 7583
-<img width="801" height="289" alt="Bildschirmfoto 2026-07-24 um 09 02 16" src="https://github.com/user-attachments/assets/6992a15e-6841-4d21-b63e-231764c13001" />
+U-Net Picture 9109:
 
-PSP-Net Picture 7813
+<img width="1044" height="343" alt="image" src="https://github.com/user-attachments/assets/6ec0e15b-f6fd-42e6-8e98-d62e95086c39" />
+
+U-Net Picture 6831:
+
+<img width="1044" height="343" alt="image" src="https://github.com/user-attachments/assets/6595c674-ec7b-49e8-9dc6-f7b9686439a1" />
+
+PSP-Net Picture 7583:
+
+<img width="1044" height="343" alt="Bildschirmfoto 2026-07-24 um 09 02 16" src="https://github.com/user-attachments/assets/6992a15e-6841-4d21-b63e-231764c13001" />
+
+PSP-Net Picture 7813:
+
 <img width="1044" height="343" alt="Bildschirmfoto 2026-07-24 um 09 03 21" src="https://github.com/user-attachments/assets/849f0dbf-62fa-4a8f-be70-9736acd64180" />
 
 
