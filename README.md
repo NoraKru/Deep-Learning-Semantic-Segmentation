@@ -46,7 +46,7 @@ U-Net Picture 9109:
 
 U-Net Picture 6831:
 
-<img width="800" height="280" alt="image" src="https://github.com/user-attachments/assets/e0968da8-b0f1-46be-acfd-297f088e9172" />
+<img width="760" height="270" alt="image" src="https://github.com/user-attachments/assets/e0968da8-b0f1-46be-acfd-297f088e9172" />
 
 
 PSP-Net Picture 7583:
